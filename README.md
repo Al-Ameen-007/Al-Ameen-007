@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Al-Ameen-007
 - 👀 I’m interested in java script,CSS,HTML
-- 🌱 I’m currently learning what im interested in
-- 💞️ I’m looking to collaborate on anything bro 
-- 📫 How to reach me yalameen007@gmail.com
+- 🌱 I’m currently a front end developer
+- 📫 How to reach me alameenfeyisope@gmail.com
 - 
 
 <!---
