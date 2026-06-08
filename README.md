@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Al-Ameen-007
+- 👋 Hi, I’m @Al-Ameen
 - 👀 I’m interested in java script,CSS,HTML
 - 🌱 I’m currently a front end developer
 - 📫 How to reach me alameenfeyisope@gmail.com
